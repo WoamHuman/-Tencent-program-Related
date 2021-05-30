@@ -16,4 +16,3 @@ zan[i].firstChild.click();
 window.scrollBy(x,y);
 }
 window.setInterval(autoClick,2000);
-
