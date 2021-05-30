@@ -1,6 +1,6 @@
 window.setInterval(autoClick,2000); //2000代表两秒屏幕下滑5px
 
-代码如下：
+代码：
 
 
 var x=5,y=10;
